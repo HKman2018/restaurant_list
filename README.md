@@ -9,10 +9,10 @@ git clone
 
 | Restarant | 
 | -------- | 
-| restaurant name | 
-| restaurant location |
-| category |
-| rating |
+|    restaurant name | 
+|    restaurant location |
+|    category |
+|    rating |
 
 ### Description Of Restaurant
 
