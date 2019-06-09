@@ -8,5 +8,5 @@ git clone
 ##You can see
 
 | Restarant |
-| -------- |
+| -------- | ------- |
 | restarant name | photo | location |
