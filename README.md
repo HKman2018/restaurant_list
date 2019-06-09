@@ -18,7 +18,7 @@ git clone
        category    
        
        rating 
-
-### Description Of Restaurant
+      
+       Description Of Restaurant
 
 ## Searchbar for search Restaurant
