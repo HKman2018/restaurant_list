@@ -7,6 +7,7 @@ git clone
       git clone https://github.com/HKman2018/restaurant_list.git
 ##You can see
 
-| Restarant | |
+| Restarant | 
 | -------- | 
-| restarant name | photo | location |
+| restarant name |
+
