@@ -9,4 +9,4 @@ git clone
 
 | Restarant |
 | -------- |
-| restarant name |
+| restarant name | photo | location |
