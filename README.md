@@ -1,6 +1,6 @@
 # restaurant_list
 
 
-:::warning
+::: warning
 *here be dragons*
 :::
