@@ -11,7 +11,7 @@ git clone
 
        restaurant name 
        
-       restaurant 
+       restaurant photo
        
        location 
        
