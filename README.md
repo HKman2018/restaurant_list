@@ -5,3 +5,6 @@
 *Can search restaurant*
 :::
 
+::: warning
+*here be dragons*
+:::
