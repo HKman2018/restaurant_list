@@ -9,5 +9,6 @@ git clone
 
 | Restarant | 
 | -------- | 
-| restarant name |  phone  |
+| restarant name | 
+| phone |
 
