@@ -1,8 +1,11 @@
 # restaurant website
 
+# 簡介
 
+        卜女
 
-git clone
+# 安裝方法
+
     
       . git clone https://github.com/HKman2018/restaurant_list.git
       
@@ -10,20 +13,11 @@ git clone
       
       . npm install
       
-## You can see
+## 使用方法
 
- Restarant  
+ 
+        *點擊搜尋 打餐廳名字 可以搜尋餐廳
 
-       restaurant name 
-       
-       restaurant photo
-       
-       location 
-       
-       category    
-       
-       rating 
-      
-       Description Of Restaurant
+     
 
 ## Searchbar for search Restaurant
